@@ -1,0 +1,3 @@
+RewriteEngine On
+
+DirectoryIndex client/index.php
